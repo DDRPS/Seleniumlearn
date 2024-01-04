@@ -20,7 +20,7 @@ public class ActionsClass {
 	  @Test
 	  public void doubleclick() throws InterruptedException {
 		  driver.get("http://www.seleniumlearn.com/double-click");
-		  Thread.sleep(3000);
+		  Thread.sleep(5000);
 		  Actions act = new Actions(driver);
 		  act.moveToElement(driver.findElement(By.xpath("//button[normalize-space()='Double-Click Me!']"))).doubleClick().build().perform();
 	  }
