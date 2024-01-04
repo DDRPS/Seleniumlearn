@@ -1,0 +1,70 @@
+2023-12-24 19:45:49,641 [main] INFO LogLearning - Chrome Browser Launch
+2023-12-24 20:11:20,144 [main] INFO LogLearning - Chrome Browser Launch
+2023-12-24 20:11:20,297 [main] INFO LogLearning - Browser window maximize
+2023-12-24 20:11:53,306 [main] INFO LogLearning - Chrome Browser Launch
+2023-12-24 20:11:53,453 [main] INFO LogLearning - Browser window maximize
+2023-12-24 20:12:00,598 [main] INFO LogLearning - navigate to google application
+2023-12-24 20:38:11,429 [main] INFO LogLearning - Chrome Browser Launch
+2023-12-24 20:38:11,570 [main] INFO LogLearning - Browser window maximize
+2023-12-24 20:38:14,446 [main] INFO LogLearning - navigate to google application
+2023-12-24 20:38:14,593 [main] INFO LogLearning - enter text selenium in google bar
+2023-12-24 20:38:14,674 [main] INFO LogLearning - enter button pressed
+2023-12-24 20:39:22,036 [main] INFO LogLearning - Chrome Browser Launch
+2023-12-24 20:39:22,179 [main] INFO LogLearning - Browser window maximize
+2023-12-24 20:39:24,669 [main] INFO LogLearning - navigate to google application
+2023-12-24 20:39:24,794 [main] INFO LogLearning - enter text selenium in google bar
+2023-12-24 20:39:24,872 [main] INFO LogLearning - enter button pressed
+2023-12-24 20:46:24,243 [main] INFO LogLearning - Chrome Browser Launch
+2023-12-24 20:46:24,388 [main] INFO LogLearning - Browser window maximize
+2023-12-24 20:46:27,387 [main] INFO LogLearning - navigate to google application
+2023-12-24 20:46:27,484 [main] INFO LogLearning - enter text selenium in google bar
+2023-12-24 20:46:27,846 [main] INFO LogLearning - enter button pressed
+2023-12-24 20:46:30,859 [main] INFO LogLearning - wait for 3 sec
+2023-12-24 20:52:28,821 [main] INFO search - Chrome Browser Launch
+2023-12-24 20:52:28,954 [main] INFO search - Browser window maximize
+2023-12-24 20:52:33,184 [main] INFO search - navigate to google application
+2023-12-24 20:52:33,289 [main] INFO search - enter text selenium in google bar
+2023-12-24 20:52:33,604 [main] INFO search - enter button pressed
+2023-12-24 20:52:36,613 [main] INFO search - wait for 3 sec
+2023-12-25 13:41:20,824 [main] INFO search - Chrome Browser Launch
+2023-12-25 13:41:20,980 [main] INFO search - Browser window maximize
+2023-12-25 17:12:58,425 [main] INFO search - Chrome Browser Launch
+2023-12-25 17:13:51,699 [main] INFO search - Chrome Browser Launch
+2023-12-25 17:14:30,828 [main] INFO search - Chrome Browser Launch
+2023-12-25 17:16:59,778 [main] INFO search - Chrome Browser Launch
+2023-12-25 17:16:59,916 [main] INFO search - Browser window maximize
+2023-12-25 17:17:07,259 [main] INFO search - navigate to google application
+2023-12-25 17:17:07,359 [main] INFO search - enter text selenium in google bar
+2023-12-25 17:17:17,829 [main] INFO search - enter button pressed
+2023-12-25 17:17:20,835 [main] INFO search - wait for 3 sec
+2023-12-25 17:17:34,728 [main] INFO search - navigate to selenium resume
+2023-12-25 17:20:42,826 [main] INFO search - Chrome Browser Launch
+2023-12-25 17:20:42,965 [main] INFO search - Browser window maximize
+2023-12-25 17:20:51,314 [main] INFO search - navigate to google application
+2023-12-25 17:20:51,401 [main] INFO search - enter text selenium in google bar
+2023-12-25 17:20:51,932 [main] INFO search - enter button pressed
+2023-12-25 17:20:54,935 [main] INFO search - wait for 3 sec
+2023-12-25 17:21:08,596 [main] INFO search - navigate to selenium application
+2023-12-25 17:21:17,583 [main] INFO search - press that resume button
+2023-12-25 17:24:56,668 [main] INFO search - Chrome Browser Launch
+2023-12-25 17:24:56,809 [main] INFO search - Browser window maximize
+2023-12-25 17:25:02,857 [main] INFO search - navigate to google application
+2023-12-25 17:25:15,106 [main] INFO search - Chrome Browser Launch
+2023-12-25 17:25:15,239 [main] INFO search - Browser window maximize
+2023-12-25 17:25:42,685 [main] INFO search - navigate to google application
+2023-12-25 17:26:09,864 [main] INFO search - enter button pressed
+2023-12-25 17:51:32,494 [main] INFO search - 
+2023-12-25 17:51:32,651 [main] INFO search - 
+2023-12-25 17:51:34,610 [main] INFO search - navigate to google application
+2023-12-25 17:54:07,795 [main] INFO search - 
+2023-12-25 17:54:07,947 [main] INFO search - 
+2023-12-25 17:54:10,342 [main] INFO search - navigate to google application
+2023-12-25 17:55:25,774 [main] INFO search - chrome browser launch
+2023-12-25 17:55:25,913 [main] INFO search - browser maximize
+2023-12-25 17:55:47,797 [main] INFO search - navigate to google application
+2023-12-25 17:55:57,204 [main] INFO search - chrome browser launch
+2023-12-25 17:55:57,340 [main] INFO search - browser maximize
+2023-12-25 17:56:32,498 [main] INFO search - navigate to google application
+2023-12-25 17:57:32,451 [main] INFO search - chrome browser launch
+2023-12-25 17:57:32,591 [main] INFO search - browser maximize
+2023-12-25 17:57:37,856 [main] INFO search - navigate to google application

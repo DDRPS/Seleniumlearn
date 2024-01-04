@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="4" total="5" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-03T22:43:50 IST" name="Default suite" finished-at="2024-01-03T22:44:05 IST" duration-ms="14547">
+    <groups>
+    </groups>
+    <test started-at="2024-01-03T22:43:50 IST" name="Default test" finished-at="2024-01-03T22:44:05 IST" duration-ms="14547">
+      <class name="actionsclassprogram.ActionsClass">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:actionsclassprogram.ActionsClass@f0da945]" started-at="2024-01-03T22:43:50 IST" name="beforeTest" finished-at="2024-01-03T22:43:52 IST" duration-ms="1813" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="keyboardfunctions()[pri:0, instance:actionsclassprogram.ActionsClass@f0da945]" started-at="2024-01-03T22:43:52 IST" name="keyboardfunctions" finished-at="2024-01-03T22:44:05 IST" duration-ms="12703" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- keyboardfunctions -->
+      </class> <!-- actionsclassprogram.ActionsClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
