@@ -3,15 +3,12 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="actionsclassprogram.ActionsClass">
+      <class name="datadriverframework.LoginValidationResults">
         <methods>
-          <include name="draganddrap"/>
-          <include name="keyboardfunctions"/>
-          <include name="mousehover"/>
+          <include name="PrintTestResultsinSheet"/>
           <include name="beforeTest"/>
-          <include name="rightclick"/>
         </methods>
-      </class> <!-- actionsclassprogram.ActionsClass -->
+      </class> <!-- datadriverframework.LoginValidationResults -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

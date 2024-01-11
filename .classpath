@@ -72,5 +72,14 @@
 	<classpathentry kind="lib" path="E:/DD/jar_files/testng-7.4.0.jar"/>
 	<classpathentry kind="lib" path="D:/Lib/sikulixapi-2.0.5.jar"/>
 	<classpathentry kind="lib" path="E:/DD/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="E:/DD/ashot-1.5.4.jar"/>
+	<classpathentry kind="lib" path="E:/DD/TestData/data-driven-jars/data-driven/jxl.jar"/>
+	<classpathentry kind="lib" path="E:/DD/TestData/data-driven-jars/data-driven/sqljdbc4.jar"/>
+	<classpathentry kind="lib" path="E:/DD/TestData/data-driven-jars/data-driven/poi/poi-3.10-FINAL-20140208.jar"/>
+	<classpathentry kind="lib" path="E:/DD/TestData/data-driven-jars/data-driven/poi/poi-examples-3.10-FINAL-20140208.jar"/>
+	<classpathentry kind="lib" path="E:/DD/TestData/data-driven-jars/data-driven/poi/poi-excelant-3.10-FINAL-20140208.jar"/>
+	<classpathentry kind="lib" path="E:/DD/TestData/data-driven-jars/data-driven/poi/poi-ooxml-3.10-FINAL-20140208.jar"/>
+	<classpathentry kind="lib" path="E:/DD/TestData/data-driven-jars/data-driven/poi/poi-ooxml-schemas-3.10-FINAL-20140208.jar"/>
+	<classpathentry kind="lib" path="E:/DD/TestData/data-driven-jars/data-driven/poi/poi-scratchpad-3.10-FINAL-20140208.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
